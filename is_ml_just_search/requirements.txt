@@ -1,0 +1,7 @@
+jupyterlab
+torch
+lightning
+scikit-learn
+pandas
+numpy
+tensorboard
